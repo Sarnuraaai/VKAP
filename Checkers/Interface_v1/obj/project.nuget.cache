@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/B90mkTilD7mPn+aI7pfadWY5PAEv6idHR3gDpsjk/toRFNJzvgngS7juqp2yU2hyxg5PiJaCPYQfQmlFq8skg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Андрей\\Documents\\Универ\\Курсач\\CHECKERS_FINAL\\Checkers\\Interface_v1\\Interface_v1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Андрей\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Андрей\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Андрей\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Андрей\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
